@@ -7,4 +7,4 @@ Phone to words
 
 3 ) Install ruby 2.1.5
 
-4 ) ruby phone.rb
+4 ) Run ruby phone.rb
